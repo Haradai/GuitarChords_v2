@@ -1,4 +1,0 @@
-[Compiler]
-Extra=
-[Linker]
-Extra=eeprom.pic16.lib
